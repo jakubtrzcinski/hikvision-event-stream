@@ -12,7 +12,8 @@ new HikvisionCamera("192.168.0.276", new HikvisionCameraAuthImpl(
     System.out.println(event);
 });
 ```
-![](Screenshot 2022-09-23 at 19.41.39.png)
+
+![](https://github.com/jakubtrzcinski/hikvision-event-stream/blob/master/Screenshot%202022-09-23%20at%2019.41.39.png)
 
 # Tested cameras
 * Hikvision HWI-B121H(C)
